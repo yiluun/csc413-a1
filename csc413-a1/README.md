@@ -1,9 +1,9 @@
 # CSC 413 Assignment 1
 
-## Student Name:
+## Student Name: Daniel Guo
 
-## Student ID:
+## Student ID: 913290045
 
-## Student Email:
+## Student Email: dguo@mail.sfsu.edu
 
 ### Note: your assignment will not be graded until this README.md is completely filled out.
